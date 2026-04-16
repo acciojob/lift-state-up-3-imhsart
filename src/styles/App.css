@@ -1,1 +1,13 @@
 
+.parent{
+  padding: 20px;
+  background-color: rgb(41, 252, 41);
+}
+.child-one{
+  padding: 10px;
+  background-color: rgb(211, 108, 5);
+}
+.child-two{
+  padding: 10px;
+  background-color: rgb(245, 219, 22);
+}
